@@ -48,3 +48,5 @@ namespace BancoSimulador.Estructuras
         }
     }
 }
+
+// Nodo para listas enlazadas
