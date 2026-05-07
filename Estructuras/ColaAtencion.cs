@@ -7,7 +7,6 @@ namespace BancoSimulador.Estructuras
     /// Cola de atención bancaria implementada manualmente con estructura FIFO
     /// (First In, First Out — el primero en llegar es el primero en ser atendido).
     /// Se mantiene una referencia al frente (primer elemento) y al final (último agregado).
-    /// </summary>
     public class ColaAtencion
     {
         // Primer cliente en la cola (próximo a ser atendido)
