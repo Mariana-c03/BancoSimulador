@@ -2,7 +2,7 @@ using BancoSimulador.Entidades;
 
 namespace BancoSimulador.Estructuras
 {
-    /// <summary>
+    
     /// Pila de transacciones implementada manualmente con estructura LIFO
     /// (Last In, First Out — la última transacción es la primera en poderse deshacer).
     /// Funciona como un historial de operaciones que permite revertir la más reciente.
