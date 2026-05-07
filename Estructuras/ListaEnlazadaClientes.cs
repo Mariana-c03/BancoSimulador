@@ -21,7 +21,7 @@ namespace BancoSimulador.Estructuras
             _contador = 0;
         }
 
-        /// <summary>
+        
         /// Inserta un nuevo cliente al final de la lista enlazada.
         /// Complejidad: O(n) — se recorre hasta el último nodo.
         /// </summary>
