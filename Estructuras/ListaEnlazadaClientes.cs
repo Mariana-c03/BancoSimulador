@@ -6,7 +6,6 @@ namespace BancoSimulador.Estructuras
     
     /// Lista enlazada simple implementada manualmente para gestionar los clientes del banco.
     /// Cada nodo contiene un cliente y apunta al siguiente nodo de la lista.
-    /// </summary>
     public class ListaEnlazadaClientes
     {
         // Referencia al primer nodo (cabeza) de la lista
