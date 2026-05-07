@@ -1,0 +1,14 @@
+D:\Mariana\Descargas\BancoSimulador2\bin\Debug\net10.0\BancoSimulador.exe
+D:\Mariana\Descargas\BancoSimulador2\bin\Debug\net10.0\BancoSimulador.deps.json
+D:\Mariana\Descargas\BancoSimulador2\bin\Debug\net10.0\BancoSimulador.runtimeconfig.json
+D:\Mariana\Descargas\BancoSimulador2\bin\Debug\net10.0\BancoSimulador.dll
+D:\Mariana\Descargas\BancoSimulador2\bin\Debug\net10.0\BancoSimulador.pdb
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.AssemblyInfoInputs.cache
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.AssemblyInfo.cs
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.csproj.CoreCompileInputs.cache
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.dll
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\refint\BancoSimulador.dll
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.pdb
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\BancoSimulador.genruntimeconfig.cache
+D:\Mariana\Descargas\BancoSimulador2\obj\Debug\net10.0\ref\BancoSimulador.dll
