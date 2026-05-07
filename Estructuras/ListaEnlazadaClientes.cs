@@ -3,7 +3,7 @@ using BancoSimulador.Entidades;
 
 namespace BancoSimulador.Estructuras
 {
-    /// <summary>
+    
     /// Lista enlazada simple implementada manualmente para gestionar los clientes del banco.
     /// Cada nodo contiene un cliente y apunta al siguiente nodo de la lista.
     /// </summary>
