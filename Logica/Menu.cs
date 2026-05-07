@@ -96,7 +96,7 @@ namespace BancoSimulador.Logica
             }
         }
 
-        // ==================== REGISTRAR CLIENTE ====================
+        // ================= REGISTRAR CLIENTE ====================
 
         private void MenuRegistrarCliente()
         {
