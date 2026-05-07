@@ -68,7 +68,7 @@ cd BancoSimulador
 dotnet run
 ```
 
-Requiere .NET 8 SDK o superior.
+Requiere .NET 10 SDK o superior.
 
 ---
 
