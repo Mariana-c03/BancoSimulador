@@ -146,7 +146,7 @@ namespace BancoSimulador.Logica
             ConsoleHelper.EsperarTecla();
         }
 
-        // ==================== LISTAR CLIENTES ====================
+        // ================= LISTAR CLIENTES ====================
 
         private void MenuListarClientes()
         {
