@@ -63,7 +63,7 @@ namespace BancoSimulador.Logica
             return (true, $"Cliente '{nombre}' registrado exitosamente con la cuenta {numeroCuenta}.");
         }
 
-        /// <summary>
+        
         /// Busca un cliente por identificación usando la lista enlazada.
         /// </summary>
         public Cliente BuscarClientePorId(string identificacion)
