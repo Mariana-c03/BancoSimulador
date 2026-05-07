@@ -30,7 +30,7 @@ namespace BancoSimulador.Logica
         
         /// Registra un nuevo cliente después de validar todos los datos.
         /// Retorna un mensaje de resultado para mostrar al usuario.
-        /// </summary>
+        
         public (bool exito, string mensaje) RegistrarCliente(string identificacion, string nombre, string numeroCuenta, decimal saldoInicial)
         {
             // Validar nombre
