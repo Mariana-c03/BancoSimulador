@@ -5,7 +5,7 @@ using BancoSimulador.UI;
 
 namespace BancoSimulador.Logica
 {
-    /// <summary>
+    
     /// Maneja todos los menús e interacción con el usuario.
     /// Delega la lógica de negocio al servicio Banco.
     /// </summary>
