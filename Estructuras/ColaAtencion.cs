@@ -3,7 +3,7 @@ using BancoSimulador.Entidades;
 
 namespace BancoSimulador.Estructuras
 {
-    /// <summary>
+
     /// Cola de atención bancaria implementada manualmente con estructura FIFO
     /// (First In, First Out — el primero en llegar es el primero en ser atendido).
     /// Se mantiene una referencia al frente (primer elemento) y al final (último agregado).
