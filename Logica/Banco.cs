@@ -4,7 +4,7 @@ using BancoSimulador.Entidades;
 
 namespace BancoSimulador.Logica
 {
-    /// <summary>
+    
     /// Contiene toda la lógica de negocio del banco.
     /// Coordina las tres estructuras de datos: lista, cola y pila.
     /// </summary>
