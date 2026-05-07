@@ -8,7 +8,7 @@ namespace BancoSimulador.Logica
     
     /// Maneja todos los menús e interacción con el usuario.
     /// Delega la lógica de negocio al servicio Banco.
-    /// </summary>
+    
     public class Menu
     {
         private readonly Banco _banco;
