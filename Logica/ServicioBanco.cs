@@ -10,4 +10,3 @@ namespace BancoSimulador.Logica
     // ServicioBanco actúa como fachada pública del sistema.
     // Toda la lógica de negocio está implementada en Banco.cs.
 }
-// banco.cs
