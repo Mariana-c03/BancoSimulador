@@ -6,7 +6,6 @@ namespace BancoSimulador.Estructuras
     /// Pila de transacciones implementada manualmente con estructura LIFO
     /// (Last In, First Out — la última transacción es la primera en poderse deshacer).
     /// Funciona como un historial de operaciones que permite revertir la más reciente.
-    /// </summary>
     public class PilaTransacciones
     {
         // Cima de la pila: apunta siempre a la transacción más reciente
