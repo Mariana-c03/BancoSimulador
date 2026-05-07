@@ -2,7 +2,7 @@
 
 Proyecto final de estructuras de datos en C#. Implementa un sistema bancario básico en consola que demuestra el uso real de tres estructuras de datos implementadas manualmente.
 
----
+--
 
 ## Estructuras de datos implementadas
 
