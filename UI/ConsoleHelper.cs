@@ -7,7 +7,7 @@ namespace BancoSimulador.UI
     
     public static class ConsoleHelper
     {
-        // ==================== COLORES Y FORMATO ====================
+        // ================= COLORES Y FORMATO ====================
 
         public static void Exito(string mensaje)
         {
