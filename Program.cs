@@ -6,7 +6,7 @@ namespace BancoSimulador
     /// <summary>
     /// Punto de entrada del sistema bancario.
     /// Instancia el banco y lanza el menú principal.
-    /// </summary>
+    
     class Program
     {
         static void Main(string[] args)
