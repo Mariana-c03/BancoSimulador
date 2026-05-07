@@ -18,7 +18,7 @@ namespace BancoSimulador.Logica
             _banco = banco;
         }
 
-        // ==================== MENÚ PRINCIPAL ====================
+        // ================= MENÚ PRINCIPAL ====================
 
         public void MostrarMenuPrincipal()
         {
