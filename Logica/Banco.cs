@@ -27,7 +27,7 @@ namespace BancoSimulador.Logica
 
         // ==================== GESTIÓN DE CLIENTES ====================
 
-        /// <summary>
+        
         /// Registra un nuevo cliente después de validar todos los datos.
         /// Retorna un mensaje de resultado para mostrar al usuario.
         /// </summary>
