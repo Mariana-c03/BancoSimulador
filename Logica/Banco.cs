@@ -7,7 +7,6 @@ namespace BancoSimulador.Logica
     
     /// Contiene toda la lógica de negocio del banco.
     /// Coordina las tres estructuras de datos: lista, cola y pila.
-    /// </summary>
     public class Banco
     {
         // Estructura 1: Lista enlazada para gestión de clientes
