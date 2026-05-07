@@ -4,7 +4,7 @@ namespace BancoSimulador.UI
 {
     
     /// Utilidades visuales para la consola. Centraliza colores, separadores y mensajes.
-    /// </summary>
+    
     public static class ConsoleHelper
     {
         // ==================== COLORES Y FORMATO ====================
